@@ -25,14 +25,14 @@ const config = {
   skills: [
     'HTML',
     'CSS',
-    'Bootstrap',
-    'Python',
+    'BOOTSTRAP',
+    'PYTHON',
   ],
   experiences: [
     {
-      company: 'slservices',
-      position: 'owner',
-      from: 'September 2013',
+      company: 'SLServices',
+      position: 'Founder',
+      from: '2019',
       to: 'Present',
     },
   ],
@@ -40,8 +40,8 @@ const config = {
     {
       institution: 'Edouard Montpetit',
       degree: '',
-      from: '2009',
-      to: '2007',
+      from: '2007',
+      to: '2009',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -59,7 +59,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'business',
+    defaultTheme: 'emerald',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
