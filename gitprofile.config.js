@@ -18,7 +18,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'penaxr',
-    website: 'https://penaxr.github.io',
+    website: '',
     phone: '',
     email: '',
   },
@@ -47,7 +47,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn',
+    username: 'penaxr',
     limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
