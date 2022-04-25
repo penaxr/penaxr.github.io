@@ -26,6 +26,7 @@ const config = {
     'HTML',
     'CSS',
     'Bootstrap',
+    'Python',
   ],
   experiences: [
     {
