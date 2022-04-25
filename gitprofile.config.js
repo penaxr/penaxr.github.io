@@ -48,7 +48,7 @@ const config = {
   blog: {
     source: 'dev', // medium | dev
     username: 'penaxr',
-    limit: 3, // How many posts to display. Max is 10.
+    limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
