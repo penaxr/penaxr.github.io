@@ -18,7 +18,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'penaxr',
-    website: '',
+    website: 'https://therodenthub.com',
     phone: '',
     email: '',
   },
